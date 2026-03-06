@@ -1,0 +1,8 @@
+{
+  "name": "ExploreX",
+  "description": "AI-Powered Green Cultural Tourism & Smart Safety Platform for Sustainable Future",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
